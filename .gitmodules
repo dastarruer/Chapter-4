@@ -1,0 +1,3 @@
+[submodule "reverse-string"]
+	path = reverse-string
+	url = git@github.com:dastarruer/reverse-string.git
